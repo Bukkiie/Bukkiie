@@ -14,6 +14,10 @@ I'm Bukkiie, a code alchemist, knowledge enthusiast and a curious mind.
 
 Tinkering with the art of frontend development
 
+##  📸 Content Creator
+
+When not engaged in coding, I'm creating beauty content. Creating beauty content is my way of inspiring others to see the beauty that lies in their uniqueness
+
 ##  🎧 A Melodic Escapist
 ![Music](https://img.shields.io/badge/-MUSIC-333333?style=flat&logg=music)
 
@@ -30,7 +34,6 @@ Welcoming the philosophy of constant growth
 
 Join me on this exciting journey of curiosity, creativity, and collaboration. I'm thrilled to share my masterpiece with you!
 
-Sources
 
 
 Bukkiie/Bukkiie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
