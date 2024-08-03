@@ -13,7 +13,26 @@ I'm Bukkiie, a code alchemist, knowledge enthusiast and a curious mind.
 ![Prompt Engineering](https://img.shields.io/badge/-PROMPT%20ENGINEERING-333333?style=flat&logg=prompt%20engineering)
 
 Tinkering with the art of frontend development
-<!---
+
+##  🎧 A Melodic Escapist
+![Music](https://img.shields.io/badge/-MUSIC-333333?style=flat&logg=music)
+
+Music is my escape, transforming chaos into harmony. It is the heartbeat that fuels my coding sessions
+
+##  💫 Perpetual Learner
+
+Welcoming the philosophy of constant growth 
+
+##  🤝 Let's Connect
+
+-[LinkedIn](http://linkedin.com/in/adebukola-adeola-ajayi)
+-[GitHub](https://github.com/bukkiie)
+
+Join me on this exciting journey of curiosity, creativity, and collaboration. I'm thrilled to share my masterpiece with you!
+
+Sources
+
+
 Bukkiie/Bukkiie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
