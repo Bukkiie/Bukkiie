@@ -1,6 +1,6 @@
-###  👋 Hello World ! I'm Bukkiie
+###  👋 Hello World! I'm Bukkiie
 
-I'm Bukkiie, a code alchemist, knowledge enthusiast and a curious mind. 
+I'm Bukkiie, a code alchemist, knowledge enthusiast and curious mind. 
 
 ##  💻 Tech Sorcery
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logg=javascript)
@@ -29,8 +29,8 @@ Welcoming the philosophy of constant growth
 
 ##  🤝 Let's Connect
 
--[LinkedIn](http://linkedin.com/in/adebukola-adeola-ajayi)
--[GitHub](https://github.com/bukkiie)
+• [LinkedIn](http://linkedin.com/in/adebukola-adeola-ajayi)
+• [GitHub](https://github.com/bukkiie)
 
 Join me on this exciting journey of curiosity, creativity, and collaboration. I'm thrilled to share my masterpiece with you!
 
